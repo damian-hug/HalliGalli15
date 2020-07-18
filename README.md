@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey everyone 👋
 
-<!--
-**HalliGalli15/HalliGalli15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Damian and I'm new in the it-buissnes. I'm currently in education.<br>
+Cause of the Corona-crisis I'm working from home. I enjoy to code, love to be online, but also to be in the nature :)
+<img src="https://landing.apruebalo.net/static/media/laptop.7bd1fa05.gif" alt="Girl in a jacket" width="auto" height="300" style="display: block,
+  margin-left: auto,
+  margin-right: auto">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+About <br>
+ Learning : C# and Angular UI Basics | Backend Developer
+ Languages : C++, PHP, Angular <br>
+ Hobbies : Scout and Outdoorworkout<br>
+ Fact : Cats are cute 😺<br>
+ Organisation : GemDat Informatik AG
+ 
+ 
