@@ -6,10 +6,9 @@ Hey, my name is Damian. I'm not special or a code hero. I'm coding just for fun 
 
 <br><br>
 About <br>
- Learning : C# and Angular UI Basics | Backend Developer <br>
+ Learning : C# and Angular | Fullstack Developer <br>
  Languages : C++, PHP, Angular <br>
  Hobbies : Scout and Outdoorworkout<br>
  Fact : Cats are cute 😺<br>
- Organisation : GemDat Informatik AG
  
  
