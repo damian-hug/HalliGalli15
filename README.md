@@ -9,7 +9,7 @@ About <br>
  Learning : C# and Angular | Fullstack Developer <br>
  Languages : C++, PHP, Angular <br>
  Hobbies : Scout and Outdoorworkout<br>
- Fav Serie: Mandalorian go bbrrrrr<br>
+ Fav Serie: Supergirl go bbrrrrr<br>
  Fact : Cats are cute 😺<br>
  
  
