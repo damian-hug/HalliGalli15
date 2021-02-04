@@ -7,7 +7,7 @@ Hey, my name is Damian. I'm not special or a code hero. I'm coding just for fun 
 <br><br>
 About <br>
  Learning : C# and Angular | Fullstack Developer <br>
- Languages : C++, PHP, Angular <br>
+ Languages : C, C++, PHP, JS, TypeScript (Angular), Java and C# <br>
  Hobbies : Scout and Outdoorworkout<br>
  Fav Serie: Supergirl go bbrrrrr<br>
  Fact : Cats are cute 😺<br>
